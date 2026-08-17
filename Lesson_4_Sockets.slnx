@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Interfaces/" />
+  <Folder Name="/Элементы решения/">
+    <File Path="Chat_TZ.txt" />
+    <File Path="GenerateQuote_TZ.txt" />
+  </Folder>
+  <Project Path="../Server/Server.csproj" />
+</Solution>
